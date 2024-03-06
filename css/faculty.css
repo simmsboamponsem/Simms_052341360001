@@ -1,6 +1,7 @@
 body{
-    background-image: url(//images/back1.jpg);
+    background-image: (url(/images/siteimage2.jpeg));
     background-position: center;
+    background-color: hsla(0, 68%, 4%, 0.49);
 
 }
 
@@ -15,7 +16,7 @@ body{
  }
  
  .leftContainer {
-   background-color: #df9e9e;
+   background-color: #df9e9e1e;
     display: flex;
     justify-content: flex-start;
     align-items: center;
